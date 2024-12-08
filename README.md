@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**SkipNight/SkipNight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- SkipNight/SkipNight is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on SkipNight - a Minecraft plugin that skips the night when 50% of the players in the world are sleeping.
+
+🌱 I’m currently learning advanced Java development.
+
+👯 I’m looking to collaborate on Minecraft plugin development.
+
+🤔 I’m looking for help with optimizing performance for large servers.
+
+💬 Ask me about Minecraft, plugins, or game server management!
+
+📫 How to reach me: [Your Email or Social Media]
+
+😄 Pronouns: [Your Pronouns]
+
+⚡ Fun fact: The plugin also clears the weather after the night is skipped!
+
 -->
