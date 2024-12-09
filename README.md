@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: The plugin also clears the weather after the night is skipped!
 
 -->
+
+
+## Authors
+- **The SkipNight Team** - Initial work - [SkipNight Plugin](https://github.com/SkipNight/SkipNight)
