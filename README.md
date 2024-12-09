@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 # SkipNight Plugin - v1.0
 
-![SkipNight Plugin](https://github.com/user-attachments/assets/b67b884b-29e3-4f71-abb3-2c532d4a70d8)
-
 This is the initial release of the SkipNight plugin for Minecraft.
 
 The SkipNight plugin allows players to skip the night in Minecraft, providing a smoother and more enjoyable gameplay experience. This plugin is perfect for servers looking to maintain a vanilla feel while adding convenient features for players.
